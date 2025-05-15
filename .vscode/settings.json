@@ -1,5 +1,7 @@
 {
-    "files.associations": {
-        "createSpectrumHistogram.C": "cpp"
-    }
+  "files.associations": {
+    "createSpectrumHistogram.C": "cpp",
+    "createSpectrumHistogram copy.C": "cpp",
+    "createSpectrumHistogramcopy.C": "cpp"
+  }
 }
